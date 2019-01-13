@@ -73,17 +73,6 @@
 			</item>
 		
 			<item>
-				<title>Графеновые наушники собрали более сотни тысяч долларов на Kickstarter</title>
-				<description><![CDATA[
-					<a href="https://profproekt.github.io/blog/social/2018-01-21-grafenovye-naushniki-sobrali-dengi-na-kickstarter.html"><img width="100%" src="https://profproekt.github.ioimages/social/2018/2018-01-21-grafenovye-naushniki-sobrali-dengi-na-kickstarter/1.jpg"></a>
-					Поразительная новость - Графеновые наушники собрали более сотни тысяч долларов на Kickstarter
-					]]></description>
-				<pubDate>Sun, 21 Jan 2018 00:00:00 +0300</pubDate>
-				<link>https://profproekt.github.io/blog/social/2018-01-21-grafenovye-naushniki-sobrali-dengi-na-kickstarter.html</link>
-				<guid isPermaLink="true">https://profproekt.github.io/blog/social/2018-01-21-grafenovye-naushniki-sobrali-dengi-na-kickstarter.html</guid>
-			</item>
-		
-			<item>
 				<title>В Минске с 1 октября на год ограничат ночную продажу алкоголя</title>
 				<description><![CDATA[
 					<a href="https://profproekt.github.io/blog/social/2018-01-10-v-minske-s-1-oktyabrya-na-god-ogranichat-nochnuyu-prodazhu-alkogolya.html"><img width="100%" src="https://profproekt.github.ioimages/social/2018/2018-01-10-v-minske-s-1-oktyabrya-na-god-ogranichat-nochnuyu-prodazhu-alkogolya/1.jpg"></a>
@@ -95,25 +84,36 @@
 			</item>
 		
 			<item>
-				<title>D-Wave Systems продали квантовый компьютер четвертого поколения</title>
+				<title>Как сделать Интернет-спидометр на светодиодах и плате BeagleBone</title>
 				<description><![CDATA[
-					<a href="https://profproekt.github.io/blog/social/2018-01-10-d-wave-systems-prodali-kvantovyj-kompyuter.html"><img width="100%" src="https://profproekt.github.ioimages/social/2018/2018-01-10-d-wave-systems-prodali-kvantovyj-kompyuter/1.jpg"></a>
-					D-Wave Systems решили не тушеваться и продали свой суперкомпьютер четвертого поколения
+					<a href="https://profproekt.github.io/blog/tools/2018-01-06-kak-sdelat-internet-spidometr.html"><img width="100%" src="https://profproekt.github.ioimages/tools/2018/2018-01-06-kak-sdelat-internet-spidometr/1.jpg"></a>
+					Cамодельный интернет-спидометр на плате BeagleBone с лентой светодиодов, созданный американским инженером Тайлером Уорманом (Tyler Worman)
 					]]></description>
-				<pubDate>Wed, 10 Jan 2018 00:00:00 +0300</pubDate>
-				<link>https://profproekt.github.io/blog/social/2018-01-10-d-wave-systems-prodali-kvantovyj-kompyuter.html</link>
-				<guid isPermaLink="true">https://profproekt.github.io/blog/social/2018-01-10-d-wave-systems-prodali-kvantovyj-kompyuter.html</guid>
+				<pubDate>Sat, 06 Jan 2018 00:00:00 +0300</pubDate>
+				<link>https://profproekt.github.io/blog/tools/2018-01-06-kak-sdelat-internet-spidometr.html</link>
+				<guid isPermaLink="true">https://profproekt.github.io/blog/tools/2018-01-06-kak-sdelat-internet-spidometr.html</guid>
 			</item>
 		
 			<item>
-				<title>Huawei и Google сделали мощный одноплатный ARM-компьютер</title>
+				<title>Как сделать диджейский пульт из кассетного плеера своими руками</title>
 				<description><![CDATA[
-					<a href="https://profproekt.github.io/blog/social/2018-01-08-huawei-i-google-sdelali-moshhnyj-arm-kompyuter.html"><img width="100%" src="https://profproekt.github.ioimages/social/2018/2018-01-08-huawei-i-google-sdelali-moshhnyj-arm-kompyuter/1.jpg"></a>
-					Huawei наконец-то представили мощный одноплатный компьютер на базе ARM технологии
+					<a href="https://profproekt.github.io/blog/tools/2018-01-05-didzhejskij-pult-iz-kassetnogo-pleera.html"><img width="100%" src="https://profproekt.github.ioimages/tools/2018/2018-01-05-didzhejskij-pult-iz-kassetnogo-pleera/1.jpg"></a>
+					Концепция очень проста: нужно извлечь считывающую головку из плеера, сохранив контакт с основной платой. Плёнка из кассеты натягивается на доску и мы получаем уникальные эффекты.
 					]]></description>
-				<pubDate>Mon, 08 Jan 2018 00:00:00 +0300</pubDate>
-				<link>https://profproekt.github.io/blog/social/2018-01-08-huawei-i-google-sdelali-moshhnyj-arm-kompyuter.html</link>
-				<guid isPermaLink="true">https://profproekt.github.io/blog/social/2018-01-08-huawei-i-google-sdelali-moshhnyj-arm-kompyuter.html</guid>
+				<pubDate>Fri, 05 Jan 2018 00:00:00 +0300</pubDate>
+				<link>https://profproekt.github.io/blog/tools/2018-01-05-didzhejskij-pult-iz-kassetnogo-pleera.html</link>
+				<guid isPermaLink="true">https://profproekt.github.io/blog/tools/2018-01-05-didzhejskij-pult-iz-kassetnogo-pleera.html</guid>
+			</item>
+		
+			<item>
+				<title>Автор лазерного дробовика собрал световой меч</title>
+				<description><![CDATA[
+					<a href="https://profproekt.github.io/blog/tools/2018-01-03-avtor-lazernogo-drobovika-sobral-svetovoj-mech.html"><img width="100%" src="https://profproekt.github.ioimages/tools/2018/2018-01-03-avtor-lazernogo-drobovika-sobral-svetovoj-mech/1.jpg"></a>
+					Летом Энтони собрал в домашних условиях работающий лазерный дробовик, чем покорил аудиторию YouTube. Теперь он сконструировал почти настоящий световой меч.
+					]]></description>
+				<pubDate>Wed, 03 Jan 2018 00:00:00 +0300</pubDate>
+				<link>https://profproekt.github.io/blog/tools/2018-01-03-avtor-lazernogo-drobovika-sobral-svetovoj-mech.html</link>
+				<guid isPermaLink="true">https://profproekt.github.io/blog/tools/2018-01-03-avtor-lazernogo-drobovika-sobral-svetovoj-mech.html</guid>
 			</item>
 		
 	</channel>
